@@ -157,7 +157,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 }
 .location {
   position: relative;
-  top: 80px;
+  top: 70px;
   left: 16px;
 }
 .nav.scrolled{ padding: 14px var(--gutter); background: rgba(11,11,15,.72); backdrop-filter: blur(16px) saturate(140%); border-bottom: 1px solid var(--border); }
